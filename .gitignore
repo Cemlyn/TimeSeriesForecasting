@@ -133,3 +133,6 @@ dmypy.json
 *.csv
 *.7z
 *.npy
+
+*.h5
+*.index
